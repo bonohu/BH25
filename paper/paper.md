@@ -48,7 +48,7 @@ biohackathon_url:   "https://2025.biohackathon.org/"
 biohackathon_location: "Mie, Japan, 2025"
 group: "QPX: Pathway analysis environment"
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackathon-japan/BH25-QPX_Pathway_analysis_environment
+git_url: https://github.com/bonohu/BH25
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: Bono H \emph{et al.}
